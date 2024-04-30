@@ -2,8 +2,6 @@
   {
     "2019": {
       "ipl": {
-        "team1": "dc",
-        "team2": "kkr",
         "innings": [
           {
             "ground": "dc",
@@ -40,8 +38,6 @@
     },
     "2024": {
       "ipl": {
-        "team1": "dc",
-        "team2": "kkr",
         "innings": [
           {
             "ground": "dc",
