@@ -4,7 +4,7 @@
       "ipl": {
         "team1": "dc",
         "team2": "kkr",
-        "innings1": [
+        "innings": [
           {
             "ground": "dc",
             "fantasyFirstBat": 0,
@@ -19,9 +19,7 @@
             "team1Wk": 8,
             "team2Wk": 6,
             "result": "dc"
-          }
-        ],
-        "innings2": [
+          },
           {
             "ground": "kkr",
             "fantasyFirstBat": 0,
@@ -44,7 +42,7 @@
       "ipl": {
         "team1": "dc",
         "team2": "kkr",
-        "innings1": [
+        "innings": [
           {
             "ground": "dc",
             "fantasyFirstBat": 0,
@@ -59,9 +57,7 @@
             "team1Wk": 7,
             "team2Wk": 10,
             "result": "kkr"
-          }
-        ],
-        "innings2": [
+          },
           {
             "ground": "dc",
             "fantasyFirstBat": 0,
