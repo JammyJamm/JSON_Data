@@ -1,16 +1,34 @@
-[
-  {
-    "league": "ipl",
-    "year": "2024",
-    "team1": "csk",
-    "team2": "srh",
-    "opponentPoints": "",
-    "ground": "csk",
-    "fantacyPointTeam1": "60",
-    "fantacyPointTeam2": "60",
-    "innings1": "60",
-    "innings2": "60",
-    "result": "csk",
-    "prediction": ""
+{
+  "2019": {
+    "ipl": {
+      "team1": "csk",
+      "team2": "srh",
+      "innings1": [
+        {
+          "ground": "csk",
+          "team1Score": 173,
+          "team2Score": 176,
+          "team1Wk": 6,
+          "team2Wk": 4,
+          "result": "csk"
+        }
+      ]
+    }
+  },
+  "2024": {
+    "ipl": {
+      "team1": "csk",
+      "team2": "srh",
+      "innings1": [
+        {
+          "ground": "csk",
+          "team1Score": 173,
+          "team2Score": 176,
+          "team1Wk": 6,
+          "team2Wk": 4,
+          "result": "csk"
+        }
+      ]
+    }
   }
-]
+}
