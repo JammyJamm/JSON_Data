@@ -68,6 +68,51 @@
             "team1Wk": 9,
             "team2Wk": 3,
             "result": "kkr"
+          },
+          {
+            "ground": "csk",
+            "fantasyFirstBat": 60,
+            "fantasySecondBat": 60,
+            "fantasyAvg": 168,
+            "batFirstTeam": "csk",
+            "batSecondTeam": "srh",
+            "team1Score": 212,
+            "team2Score": 134,
+            "team1Over": 20,
+            "team2Over": 18.5,
+            "team1Wk": 3,
+            "team2Wk": 10,
+            "result": "csk"
+          },
+          {
+            "ground": "srh",
+            "fantasyFirstBat": 60,
+            "fantasySecondBat": 60,
+            "fantasyAvg": 188,
+            "batFirstTeam": "csk",
+            "batSecondTeam": "srh",
+            "team1Score": 165,
+            "team2Score": 166,
+            "team1Over": 20,
+            "team2Over": 18.1,
+            "team1Wk": 5,
+            "team2Wk": 4,
+            "result": "srh"
+          },
+          {
+            "ground": "srh",
+            "fantasyFirstBat": 60,
+            "fantasySecondBat": 60,
+            "fantasyAvg": 188,
+            "batFirstTeam": "csk",
+            "batSecondTeam": "srh",
+            "team1Score": 165,
+            "team2Score": 166,
+            "team1Over": 20,
+            "team2Over": 18.1,
+            "team1Wk": 5,
+            "team2Wk": 4,
+            "result": "srh"
           }
         ]
       }
