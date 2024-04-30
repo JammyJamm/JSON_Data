@@ -1,82 +1,84 @@
-{
-  "2019": {
-    "ipl": {
-      "team1": "dc",
-      "team2": "kkr",
-      "innings1": [
-        {
-          "ground": "dc",
-          "fantasyFirstBat": 0,
-          "fantasySecondBat": 0,
-          "fantasyAvg": 0,
-          "batFirstTeam": "kkr",
-          "batSecondTeam": "dc",
-          "team1Score": 185,
-          "team2Score": 185,
-          "team1Over": 20,
-          "team2Over": 20,
-          "team1Wk": 8,
-          "team2Wk": 6,
-          "result": "dc"
-        }
-      ],
-      "innings2": [
-        {
-          "ground": "kkr",
-          "fantasyFirstBat": 0,
-          "fantasySecondBat": 0,
-          "fantasyAvg": 0,
-          "batFirstTeam": "kkr",
-          "batSecondTeam": "dc",
-          "team1Score": 178,
-          "team2Score": 180,
-          "team1Over": 20,
-          "team2Over": 18.5,
-          "team1Wk": 7,
-          "team2Wk": 3,
-          "result": "dc"
-        }
-      ]
-    }
-  },
-  "2024": {
-    "ipl": {
-      "team1": "dc",
-      "team2": "kkr",
-      "innings1": [
-        {
-          "ground": "dc",
-          "fantasyFirstBat": 0,
-          "fantasySecondBat": 0,
-          "fantasyAvg": 0,
-          "batFirstTeam": "kkr",
-          "batSecondTeam": "dc",
-          "team1Score": 272,
-          "team2Score": 166,
-          "team1Over": 20,
-          "team2Over": 17.3,
-          "team1Wk": 7,
-          "team2Wk": 10,
-          "result": "kkr"
-        }
-      ],
-      "innings2": [
-        {
-          "ground": "dc",
-          "fantasyFirstBat": 0,
-          "fantasySecondBat": 0,
-          "fantasyAvg": 0,
-          "batFirstTeam": "dc",
-          "batSecondTeam": "kkr",
-          "team1Score": 153,
-          "team2Score": 157,
-          "team1Over": 20,
-          "team2Over": 16.3,
-          "team1Wk": 9,
-          "team2Wk": 3,
-          "result": "kkr"
-        }
-      ]
+[
+  {
+    "2019": {
+      "ipl": {
+        "team1": "dc",
+        "team2": "kkr",
+        "innings1": [
+          {
+            "ground": "dc",
+            "fantasyFirstBat": 0,
+            "fantasySecondBat": 0,
+            "fantasyAvg": 0,
+            "batFirstTeam": "kkr",
+            "batSecondTeam": "dc",
+            "team1Score": 185,
+            "team2Score": 185,
+            "team1Over": 20,
+            "team2Over": 20,
+            "team1Wk": 8,
+            "team2Wk": 6,
+            "result": "dc"
+          }
+        ],
+        "innings2": [
+          {
+            "ground": "kkr",
+            "fantasyFirstBat": 0,
+            "fantasySecondBat": 0,
+            "fantasyAvg": 0,
+            "batFirstTeam": "kkr",
+            "batSecondTeam": "dc",
+            "team1Score": 178,
+            "team2Score": 180,
+            "team1Over": 20,
+            "team2Over": 18.5,
+            "team1Wk": 7,
+            "team2Wk": 3,
+            "result": "dc"
+          }
+        ]
+      }
+    },
+    "2024": {
+      "ipl": {
+        "team1": "dc",
+        "team2": "kkr",
+        "innings1": [
+          {
+            "ground": "dc",
+            "fantasyFirstBat": 0,
+            "fantasySecondBat": 0,
+            "fantasyAvg": 0,
+            "batFirstTeam": "kkr",
+            "batSecondTeam": "dc",
+            "team1Score": 272,
+            "team2Score": 166,
+            "team1Over": 20,
+            "team2Over": 17.3,
+            "team1Wk": 7,
+            "team2Wk": 10,
+            "result": "kkr"
+          }
+        ],
+        "innings2": [
+          {
+            "ground": "dc",
+            "fantasyFirstBat": 0,
+            "fantasySecondBat": 0,
+            "fantasyAvg": 0,
+            "batFirstTeam": "dc",
+            "batSecondTeam": "kkr",
+            "team1Score": 153,
+            "team2Score": 157,
+            "team1Over": 20,
+            "team2Over": 16.3,
+            "team1Wk": 9,
+            "team2Wk": 3,
+            "result": "kkr"
+          }
+        ]
+      }
     }
   }
-}
+]
