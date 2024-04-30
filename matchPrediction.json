@@ -40,6 +40,7 @@
       "ipl": {
         "innings": [
           {
+            "date": "03/04/2024",
             "ground": "dc",
             "fantasyFirstBat": 0,
             "fantasySecondBat": 0,
@@ -55,6 +56,7 @@
             "result": "kkr"
           },
           {
+            "date": "29/04/2024",
             "ground": "dc",
             "fantasyFirstBat": 100,
             "fantasySecondBat": 60,
@@ -70,6 +72,7 @@
             "result": "kkr"
           },
           {
+            "date": "05/04/2024",
             "ground": "csk",
             "fantasyFirstBat": 60,
             "fantasySecondBat": 60,
@@ -85,21 +88,7 @@
             "result": "csk"
           },
           {
-            "ground": "srh",
-            "fantasyFirstBat": 60,
-            "fantasySecondBat": 60,
-            "fantasyAvg": 188,
-            "batFirstTeam": "csk",
-            "batSecondTeam": "srh",
-            "team1Score": 165,
-            "team2Score": 166,
-            "team1Over": 20,
-            "team2Over": 18.1,
-            "team1Wk": 5,
-            "team2Wk": 4,
-            "result": "srh"
-          },
-          {
+            "date": "28/04/2024",
             "ground": "srh",
             "fantasyFirstBat": 60,
             "fantasySecondBat": 60,
