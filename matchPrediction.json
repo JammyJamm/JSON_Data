@@ -60,9 +60,9 @@
           },
           {
             "ground": "dc",
-            "fantasyFirstBat": 0,
-            "fantasySecondBat": 0,
-            "fantasyAvg": 0,
+            "fantasyFirstBat": 100,
+            "fantasySecondBat": 60,
+            "fantasyAvg": 215,
             "batFirstTeam": "dc",
             "batSecondTeam": "kkr",
             "team1Score": 153,
