@@ -102,6 +102,38 @@
             "team1Wk": 5,
             "team2Wk": 4,
             "result": "srh"
+          },
+          {
+            "date": "05/05/2024",
+            "ground": "pbks",
+            "fantasyFirstBat": 100,
+            "fantasySecondBat": 60,
+            "fantasyAvg": 172,
+            "batFirstTeam": "csk",
+            "batSecondTeam": "pbks",
+            "team1Score": 167,
+            "team2Score": 139,
+            "team1Over": 20,
+            "team2Over": 20,
+            "team1Wk": 9,
+            "team2Wk": 9,
+            "result": "csk"
+          },
+          {
+            "date": "04/29/2024",
+            "ground": "kkr",
+            "fantasyFirstBat": 100,
+            "fantasySecondBat": 60,
+            "fantasyAvg": 215,
+            "batFirstTeam": "dc",
+            "batSecondTeam": "kkr",
+            "team1Score": 153,
+            "team2Score": 157,
+            "team1Over": 20,
+            "team2Over": 16.3,
+            "team1Wk": 9,
+            "team2Wk": 3,
+            "result": "kkr"
           }
         ]
       }
